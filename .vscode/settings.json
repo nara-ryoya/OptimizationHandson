@@ -1,0 +1,15 @@
+{
+  "files.eol": "\n",
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "python.linting.mypyEnabled": true,
+  "python.linting.flake8Args": ["--max-line-length=120", "--ignore=F401"],
+  "python.linting.flake8Enabled": true,
+  "editor.formatOnSave": true,
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.pycodestyleArgs": ["--ignore=E501"]
+}
